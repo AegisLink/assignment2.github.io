@@ -9,3 +9,8 @@ img.align{
     width: 400px; 
     height: 175px;
 }
+
+div.header{
+    display:list-item;
+    text-align: center;
+}
