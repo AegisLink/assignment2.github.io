@@ -14,3 +14,10 @@ div.header{
     display:list-item;
     text-align: center;
 }
+
+
+p.center{
+    display: block;
+    text-align: center;
+
+}
