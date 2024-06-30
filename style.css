@@ -1,18 +1,7 @@
-div.cities{
-    display: inline-block;
-    border: 5px solid green;
-    border-radius: 3%;
-    margin: auto;
-    padding: 5px;}
-    
-img.align{
-    width: 400px; 
-    height: 175px;}
-
 div.header{
     display:list-item;
-    text-align: center;}
-
+    text-align: center;
+}
 div.font{
     border-width: 3px;
     border-style: solid;
@@ -20,27 +9,50 @@ div.font{
 
 p.center{
     display: block;
-    text-align: center;}
+    text-align: center;
 
-p
-    .arial{
+}
+
+
+    p.arial{
     font-family: Arial, Helvetica, sans-serif;
-    color: hotpink;}
+    color: hotpink;
+}
 
-    .courier{
+    p.courier{
     font-family: 'Courier New', Courier, monospace;
     color: pink;}
 
-    .corsive{
+    p.corsive{
     font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
     color: lightpink;}
 
 
 td.center{
     text-align: center;
-    width: 100px;}
+    width: 100px;
+}
 
 
 th.center{
     text-align: center;
-    width: 100px;}
+    width: 400px;
+}
+
+
+
+
+div.bottom{
+
+    border: 5px solid orange;
+    width:31%;
+    height:auto;
+    float: left;
+    margin-left: 1%;
+    text-align: center;
+    border-radius: 3%;}
+
+img.size{
+    width: 95%; 
+    height: 150px;
+}
