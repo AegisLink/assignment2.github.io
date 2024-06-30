@@ -3,54 +3,44 @@ div.cities{
     border: 5px solid green;
     border-radius: 3%;
     margin: auto;
-    padding: 5px;
-}
+    padding: 5px;}
+    
 img.align{
     width: 400px; 
-    height: 175px;
-}
+    height: 175px;}
 
 div.header{
     display:list-item;
-    text-align: center;
-}
-
-
-p.center{
-    display: block;
-    text-align: center;
-
-}
-
-p.arial{
-    font-family: Arial, Helvetica, sans-serif;
-    color: hotpink;
-
-}
-
-p.courier{
-    font-family: 'Courier New', Courier, monospace;
-    color: pink;
-}
-
-p.corsive{
-    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
-    color: lightpink;
-}
+    text-align: center;}
 
 div.font{
     border-width: 3px;
     border-style: solid;
-    border-color: #FF0000;
-}
+    border-color: #FF0000;}
+
+p.center{
+    display: block;
+    text-align: center;}
+
+p
+    .arial{
+    font-family: Arial, Helvetica, sans-serif;
+    color: hotpink;}
+
+    .courier{
+    font-family: 'Courier New', Courier, monospace;
+    color: pink;}
+
+    .corsive{
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    color: lightpink;}
+
 
 td.center{
     text-align: center;
-    width: 100px;
-}
+    width: 100px;}
 
 
 th.center{
     text-align: center;
-    width: 100px;
-}
+    width: 100px;}
