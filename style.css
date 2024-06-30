@@ -43,3 +43,14 @@ div.font{
     border-style: solid;
     border-color: #FF0000;
 }
+
+td.center{
+    text-align: center;
+    width: 100px;
+}
+
+
+th.center{
+    text-align: center;
+    width: 100px;
+}
