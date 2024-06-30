@@ -36,14 +36,14 @@ td.center{
 
 th.center{
     text-align: center;
-    width: 400px;
+    width: 100px;
 }
 
 
 
 
 div.bottom{
-
+    padding-top: 5px;
     border: 5px solid orange;
     width:31%;
     height:auto;
